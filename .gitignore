@@ -1,1 +1,4 @@
 *.pyc
+.scrapy/
+superloto/*.pyc
+superloto/spiders/*.pyc
